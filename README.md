@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI and Machine Learning<br>💬 Ask me Anything
+🔭 I’m currently working on Sorting Visualizer<br>🌱 I’m currently learning AI and Machine Learning<br>💬 Ask me Anything
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadanRaj04&label=Profile%20views&color=0e75b6&style=flat" alt="Madan Raj" /> </p>
 
